@@ -45,7 +45,7 @@
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-222222?style=flat-square)
 ![Network Programming](https://img.shields.io/badge/Network_Programming-222222?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-222222?style=flat-square)
-![AI Infra](https://img.shields.io/badge/AI_Infra-222222?style=flat-square)
+![Agent runtime](https://img.shields.io/badge/AI_Infra-222222?style=flat-square)
 
 ---
 
@@ -446,7 +446,7 @@ I enjoy building things from the bottom up — from event-driven network librari
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-222222?style=flat-square)
 ![Network Programming](https://img.shields.io/badge/Network_Programming-222222?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-222222?style=flat-square)
-![AI Infra](https://img.shields.io/badge/AI_Infra-222222?style=flat-square)
+![Agent Runtime](https://img.shields.io/badge/AI_Infra-222222?style=flat-square)
 
 ---
 
